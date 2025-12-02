@@ -15,6 +15,6 @@ export default defineConfig({
   },
   base: '/algo-visualizers/',
   build: {
-    outDir: 'docs',
+    outDir: 'dist',
   },
 });
